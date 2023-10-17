@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshsingh2021" alt="ashutoshsingh2021" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix Clone](https://github.com/AshutoshSingh2021/netflix-clone)
+[comment]: <> (- 🔭 I’m currently working on [Netflix Clone](https://github.com/AshutoshSingh2021/netflix-clone))
 
 - 🌱 I’m currently learning **Full Stack Web Development, React, Data Structures and Algorithm**
 
